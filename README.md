@@ -1,1 +1,1 @@
-# mit_hackathon2020
+# MIT Hackathon 2020
